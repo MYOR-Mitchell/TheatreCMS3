@@ -13,7 +13,7 @@ namespace TheatreCMS3.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202102162045367_InitialCreate"; }
+            get { return "202502071347111_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source
