@@ -262,9 +262,9 @@
     <Content Include="Content\images\Unauthorized.png" />
     <Content Include="Content\PagedList.css" />
     <Content Include="Content\images\restricted.png" />
+    <Content Include="Content\Site.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="Content\Site.css" />
     <Content Include="Scripts\Areas\Blog.js" />
     <Content Include="Scripts\Areas\Prod.js" />
     <Content Include="Scripts\Areas\Rent.js" />
@@ -414,7 +414,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
@@ -467,6 +466,7 @@
     <Content Include="webfonts\PTSans-Regular.ttf" />
     <Content Include="webfonts\Broadway Normal.ttf" />
     <Content Include="Views\Home\Donate.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
