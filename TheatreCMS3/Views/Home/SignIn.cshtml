@@ -5,10 +5,14 @@
 }
 
 <script>
-  $(document).ready(function() {
-    let persons = $("#PersonList").children("p").length;
-    $("#countDevs").text(persons);
-  });
+    //Counting number of devs signed in and displaying it on page.
+    document.addEventListener("DOMContentLoaded", function () {
+        const personList = document.getElementById("PersonList");
+
+        const persons = personList.getElementsByTagName("p").length;
+
+        document.getElementById("countDevs").textContent = persons;
+    });
 </script>
 
 <div class="py-5 text-center">
@@ -309,6 +313,7 @@
         <p>Zahra Ehteshami</p>
         <p>Noah Ketcham</p>
         <p>Sam Piazza</p>
+        <p>Martin Mitchell</p>
 
     </div>
   
