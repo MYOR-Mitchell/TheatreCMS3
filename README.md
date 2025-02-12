@@ -1,7 +1,7 @@
-# TheatreCMS3 - Capstone Project (The Tech Academy Internship)
+# TheatreCMS3 - Capstone Internship Project (The Tech Academy)
 
 ## Overview
-TheatreCMS3 is a content management system (CMS) designed to manage various aspects of a theatre's operations. Developed as part of an internship with **The Tech Academy**, this project demonstrates skills in **ASP.NET MVC**, **Entity Framework**, and **SQL Server**. The system allows users to manage blog authors, track their profiles, and supports **CRUD** (Create, Read, Update, Delete) operations. The project integrates ASP.NET MVC for backend structure, Entity Framework for database management, and SQL Server for data persistence.
+TheatreCMS3 is a content management system (CMS) designed to manage various aspects of a theatre's operations. Developed as part of an internship project with **The Tech Academy**, this project demonstrates skills in **ASP.NET MVC**, **Entity Framework**, and **SQL Server**. The system allows users to manage blog authors, track their profiles, and supports **CRUD** (Create, Read, Update, Delete) operations. The project integrates ASP.NET MVC for backend structure, Entity Framework for database management, and SQL Server for data persistence.
 
 ## Capstone Details (Internship Project with The Tech Academy)
 This project was completed during an internship at **The Tech Academy** with the following key objectives:
